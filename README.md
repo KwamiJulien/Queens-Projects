@@ -22,6 +22,8 @@ This project was conducted for a gearbox design course at Queen's. The goal was 
 -->
 
 ## Gearbox Overview
+![FinalGearbox](https://github.com/user-attachments/assets/99081246-eb3d-42ac-95dd-59dc26d93342)
+
 
 <img width="467" alt="Gearbox Assembly" src="https://github.com/user-attachments/assets/e6656146-8e38-4193-bb9f-9aac47a0553d">
 
@@ -50,4 +52,4 @@ I conducted the design for the input and output shafts following the design of t
 
 **Hill-Climb Event:** The hill-climb event was done on a 45° curved ramp. For this particular event our car slightly underperformed but still placed in the top 15.
 
-## CAD Model
+
